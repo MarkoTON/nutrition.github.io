@@ -1,7 +1,3 @@
-// $(document).ready(function(){
-//   $(".owl-carousel").owlCarousel();
-// });
-
 var owl = $('.header-carousel');
 owl.owlCarousel({
     items:5,
